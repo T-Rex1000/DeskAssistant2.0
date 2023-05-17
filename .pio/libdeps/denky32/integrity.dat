@@ -1,0 +1,5 @@
+lvgl/lvgl@^8.3.4
+tamctec/TAMC_GT911@^1.0.2
+bodmer/TFT_eSPI@^2.5.23
+bblanchon/ArduinoJson@^6.21.0
+pedroalbuquerque/ESP32WebServer@^1.0
